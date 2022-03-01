@@ -1,0 +1,815 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The forme and manner of making and consecrating bishops, priestes and deacons.</title>
+            <title>Ordinal</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00327</idno>
+            <idno type="STC">STC 16473</idno>
+            <idno type="STC">ESTC S122861</idno>
+            <idno type="EEBO-CITATION">44920340</idno>
+            <idno type="OCLC">ocm 44920340</idno>
+            <idno type="VID">173787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2098:4, 2353:3b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The forme and manner of making and consecrating bishops, priestes and deacons.</title>
+                  <title>Ordinal</title>
+                  <author>Church of England.</author>
+                  <author>Barker, Robert, d. 1645, printer.</author>
+                  <author>Bill, John, d. 1630, printer.</author>
+               </titleStmt>
+               <extent>[27] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, Printer to the Kings Most Excellent Maiesty, and by the Assignes of Iohn Bill.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno, 1633.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures : A⁸, B⁶ (final verso blank).</note>
+                  <note>Decorative head-pieces and initials.</note>
+                  <note>Imperfect: sign. A₄₋₅ bound and filmed out of order, following B₃.</note>
+                  <note>Reproductions of originals in: Henry E. Huntington Library and Art Gallery (reel 2098:4), and New York Public Library (reel 2353:3b).</note>
+                  <note>Bound and filmed with, at reel 2353:3b: STC 16392. The booke of common prayer and administration of the sacraments ... London, 1633 (preceding). -- STC 2639. Sternhold, T. The whole booke of psalmes. London, 1633 (following).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Texts.</term>
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173787:1"/>
+            <p>THE FORME AND MANNER OF MAKING and Conſecrating BISHOPS, PRIESTES and DEACONS.</p>
+            <figure/>
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by ROBERT BARKER, Printer to the Kings Moſt Excellent Maieſty, and by the Aſſignes of IOHN BILL. Anno, 1633.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:173787:2"/>
+            <head>¶ THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is euident vnto all men, diligently reading holy Scripture, and ancient Authors, that from the Apoſtles time, there hath beene theſe orders of Miniſters in Chriſts Church, Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts, and Deacons, which offices were euermore had in ſuch reuerent eſtimati<g ref="char:EOLhyphen"/>on, that no man by his owne priuate authori<g ref="char:EOLhyphen"/>tie, might preſume to execute any of them, ex<g ref="char:EOLhyphen"/>cept hee were firſt called, tried, examined and knowne to haue ſuch qualities, as were requiſite for the ſame, and alſo by publique prayer, with impoſition of hands, approued and admit<g ref="char:EOLhyphen"/>ted thereunto. And therefore, to the intent theſe orders ſhould bee continued, and reuerently vſed and eſteemed in this Church of Eng<g ref="char:EOLhyphen"/>land, it is requiſite that no man (not being at this preſent, Biſhop, Prieſt, nor Deacon) ſhall execute any of them, except he bee called, tried, examined, and admitted, according to the forme hereafter fol<g ref="char:EOLhyphen"/>lowing. And none ſhall be admitted a Deacon, except hee bee twenty one yeeres of age at the leaſt. And euery man which is to bee admitted a Prieſt, ſhall bee full foure and twenty yeeres old. And euery man which is to be conſecrated a Biſhop, ſhall be fully thirty yeeres of age. And the Biſhop knowing, either by himſelfe, or by ſufficient teſtimony, any perſon to be a man of vertuous conuerſation, and without crime, and after examination and triall, finding him learned in the Latine tongue, and ſufficiently inſtructed in holy Scripture, may vp<g ref="char:EOLhyphen"/>on a Sunday or Holy day, in the face of the Church, admit him a Deacon, in ſuch manner and forme as hereafter followeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:173787:2"/>
+            <head>The Forme and manner of Orde<g ref="char:EOLhyphen"/>ring of DEACONS.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Irſt, when the day appointed by the Biſhop is come, there ſhall be an exhortation, declaring the dutie and office of ſuch as come to be admitted Miniſters, how neceſſarie ſuch orders are in the Church of Chriſt, and alſo how the people ought to eſteeme them in their vocation.</hi>
+            </p>
+            <p>
+               <hi>After the exhortation ended, the Archdeacon or his Deputie, ſhall preſent ſuch as ſhall come to the Biſhop to be admitted, ſay<g ref="char:EOLhyphen"/>ing theſe words.</hi>
+            </p>
+            <p>REuerend Father in God, I preſent vnto you theſe perſons pre<g ref="char:EOLhyphen"/>ſent, to be admitted Deacons.</p>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>TAke heede that the perſons whom ye preſent vnto vs, bee apt and meete, for their learning and godly conuerſation, to exer<g ref="char:EOLhyphen"/>ciſe their miniſtery duely, to the honour of God, and edifying of his Church.</p>
+            </sp>
+            <sp>
+               <stage>The Archdeacon ſhall anſwere.</stage>
+               <p>
+                  <hi>I</hi> Haue enquired of them, and alſo examined them, and thinke them ſo to be.</p>
+            </sp>
+            <sp>
+               <stage>And the Biſhop ſhall ſay vnto the people.</stage>
+               <p>BRethren, if there be any of you, who knoweth any impediment or notable crime, in any of theſe perſons preſented to be ordered Deacons, for the which he ought not to bee admitted to the ſame, let him come forth in the Name of God, and ſhew what the crime or impediment is.</p>
+            </sp>
+            <p>
+               <hi>And if any great crime or impediment be obiected, the Biſhop ſhal ſurceaſe from ordering that perſon, vntill ſuch time as the party accuſed ſhall try himſelfe cleare of that crime.</hi>
+            </p>
+            <p>
+               <hi>Then the Biſhop commending ſuch as ſhall be found meete to be ordered, to the prayers of the Congregation, with the Clearkes and people pre<g ref="char:EOLhyphen"/>ſent, ſhall ſay or ſing the Letany, as followeth, with the prayers.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:173787:3"/>
+            <head>The Ordering of Deacons.</head>
+            <head type="sub">The Letany and Suffrages.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>
+               </hi> God the Father of heauen: haue mercy vpon vs miſerable ſinners.</p>
+            <p>
+               <hi>O God the Father of heauen: haue mercy vpon vs miſerable ſinners.</hi>
+            </p>
+            <p>O God the Sonne redeemer of the world: haue mercy vpon vs miſerable ſinners.</p>
+            <p>
+               <hi>O God the Sonne redeemer of the world: haue mercy vpon vs miſera<g ref="char:EOLhyphen"/>ble ſinners.</hi>
+            </p>
+            <p>O God the holy Ghoſt proceeding from the Father and the Son: haue mercy vpon vs miſerable ſinners.</p>
+            <p>
+               <hi>O God the holy Ghoſt proceeding from the Father and the Son: haue mercy vpon vs miſerable ſinners.</hi>
+            </p>
+            <p>O holy, bleſſed and glorious Trinitie, three perſons and one God: haue mercy vpon vs miſerable ſinners.</p>
+            <p>
+               <hi>O holy, bleſſed and glorious Trinitie, three perſons and one God: haue mercy vpon vs miſerable ſinners.</hi>
+            </p>
+            <p>Remember not Lord our offences, nor the offences of our fore<g ref="char:EOLhyphen"/>fathers, neither take thou vengeance of our ſinnes: Spare vs good Lord, ſpare thy people whom thou haſt redeemed with thy moſt precious blood, and be not angry with vs for euer.</p>
+            <p>
+               <hi>Spare vs good Lord.</hi>
+            </p>
+            <p>From all euill and miſchiefe, from ſinne, from the crafts and aſ<g ref="char:EOLhyphen"/>ſaults of the deuill, from thy wrath, and from euerlaſting damna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>From all blindneſſe of heart, from pride, vaine glory, and hypo<g ref="char:EOLhyphen"/>criſie, from enuy, hatred and malice, and all vncharitableneſſe.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>From fornication and all other deadly ſinne, and from all the deceits of the world, the fleſh and the deuill.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>From lightning and tempeſt, from plague, peſtilence, and famin, from battell and murther, and from ſudden death.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>From all ſedition and priuy conſpiracie, from all falſe doctrine and hereſie, from hardneſſe of heart, and contempt of thy word and Commandement.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>By the myſterie of thy holy Incarnation, by thy holy Natiuity and Circumciſion, by thy Baptiſme, Faſting, and temptation.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>By thine agony and bloody ſweat, by thy Croſſe and Paſſion,
+<pb facs="tcp:173787:3"/> by thy precious Death and Buriall, by thy glorious Reſurrection and Aſcenſion, and by the comming of the holy Ghoſt.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>In all time of our tribulation, in all time of our wealth, in the houre of death, and in the day of Iudgement.</p>
+            <p>
+               <hi>Good Lord deliuer vs.</hi>
+            </p>
+            <p>Wee ſinners doe beſeech thee to heare vs (O Lord God) and that it may pleaſe thee to rule and gouerne thy holy Church vniuerſally in the right way.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to keepe and ſtrengthen in the true wor<g ref="char:EOLhyphen"/>ſhipping of thee, in righteouſneſſe and holineſſe of life, thy Seruant <hi>Charles,</hi> our moſt gracious King and Gouernour.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to rule his heart in thy faith, feare and loue, and that hee may euermore haue affiance in thee, and euer ſeeke thy honour and glory.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to be his defender and keeper, giuing him the victory ouer all his enemies.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bleſſe and preſerue our gracious Queene <hi>Mary,</hi> Prince <hi>Charles,</hi> the Lady <hi>Mary,</hi> the Lady <hi>Elizabeth</hi> the Kings onely ſiſter, and her iſſue.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to illuminate all Biſhops, Paſtors and Miniſters of the Church, with true knowledge and vnderſtanding of thy Word, and that both by their preaching and liuing, they may ſet it forth, and ſhew it accordingly.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to endue the Lords of the Counſell, and all the Nobility, with grace, wiſedome and vnderſtanding.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bleſſe and keepe the Magiſtrates, gi<g ref="char:EOLhyphen"/>uing them grace to execute Iuſtice, and to maintaine trueth.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bleſſe and keepe all thy people.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to giue to all Nations, vnity, peace, and concord.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to giue vs an heart to loue and dread thee, and diligently to liue after thy commandements.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <pb facs="tcp:173787:4"/>
+            <p> That it may pleaſe thee to giue to all thy people increaſe of grace, to heare meekely thy word, and to receiue it with pure affection, and to bring foorth the fruits of the Spirit.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to bring into the way of trueth, all ſuch as haue erred, and are deceiued.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to ſtrengthen ſuch as doe ſtand, and to comfort and helpe the weake hearted, and to raiſe vp them that fall, and finally to beate downe Sathan vnder our feete.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to ſuccour, helpe and comfort, all that be in danger, neceſſity, and tribulation.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to preſerue all that trauell by land or by water, all women labouring of child, all ſicke perſons and yong chil<g ref="char:EOLhyphen"/>dren, and to ſhew thy pittie vpon all priſoners and captiues.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to defend and prouide for the fatherleſſe children and widowes, and all that be deſolate and oppreſſed.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to haue mercy vpon all men.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to forgiue our enemies, perſecutors and ſlanderers, and to turne their hearts.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to giue and preſerue to our vſe the kindly fruits of the earth, ſo as in due time we may enioy them.</p>
+            <p>
+               <hi>Wee beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>That it may pleaſe thee to giue vs true repentance, to forgiue vs all our ſinnes, negligences, and ignorances, and to endue vs with the grace of thy holy Spirit, to amend our liues according to thy holy word.</p>
+            <p>
+               <hi>We beſeech thee to heare vs good Lord.</hi>
+            </p>
+            <p>Sonne of God: we beſeech thee to heare vs.</p>
+            <p>
+               <hi>Sonne of God: we beſeech thee to heare vs.</hi>
+            </p>
+            <p>O Lambe of God: that takeſt away the ſinnes of the world.</p>
+            <p>
+               <hi>Grant vs thy peace.</hi>
+            </p>
+            <p>O Lambe of God: that takeſt away the ſinnes of the world.</p>
+            <p>
+               <hi>Haue mercy vpon vs.</hi>
+            </p>
+            <p>O Chriſt heare vs.</p>
+            <p>
+               <hi>O Chriſt heare vs.</hi>
+            </p>
+            <p>Lord haue mercy vpon vs.</p>
+            <p>
+               <hi>Lord haue mercy vpon vs.</hi>
+            </p>
+            <p>Chriſt
+<pb facs="tcp:173787:4"/> ſearch for the ſicke, poore, and impotent people of the Pariſh, to in<g ref="char:EOLhyphen"/>timate their eſtates, names and places where they dwell vnto the Curate, that by his exhortation they may be relieued by the Pariſh, or other conuenient almes: will you doe this gladly and willingly?</p>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe by the helpe of God.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you apply all your diligence to frame and faſhion your owne liues, and the liues of your family, according to the doctrine of Chriſt, and to make both your ſelues and them, as much as in you lieth, wholeſome examples of the flocke of Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe, the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you reuerendly obey your Ordinary and other chiefe Mi<g ref="char:EOLhyphen"/>niſters of the Church, and them to whom the gouernment and charge is committed ouer you, following with a glad mind and will, their godly admonitions?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will endeauour my ſelfe, the Lord being my helper.</p>
+            </sp>
+            <p>
+               <hi>Then the Biſhop laying his hands ſeuerally vpon the head of euery of them, ſhall ſay,</hi>
+            </p>
+            <p>Take thou authority to execute the office of a Deacon in the Church of God committed vnto thee: In the Name of the Father, the Sonne, and the holy Ghoſt. Amen.</p>
+            <p>
+               <hi>Then ſhall the Biſhop deliuer to eueryone of them the new Teſtament, ſaying,</hi>
+            </p>
+            <p>Take thou authoritie to reade the Goſpel in the Church of God, and to preach the ſame, if thou be thereto ordinarily commanded.</p>
+            <p>
+               <hi>Then one of them appointed by the Biſhop, ſhall reade the Goſpel of that day.</hi>
+            </p>
+            <p>
+               <hi>Then ſhall the Biſhop proceed to the Communion, and all that are ordered ſhall tarry and receiue the holy Communion the ſame day with the Biſhop.</hi>
+            </p>
+            <p>
+               <hi>The Communion ended, after the laſt Collect, and immediately before the Benediction, ſhall be ſaid this Collect following.</hi>
+            </p>
+            <p>ALmightie God giuer of all good things, which of thy great goodneſſe haſt vouchſafed to accept and take theſe thy ſeruants
+<pb facs="tcp:173787:5"/> vnto the offices of Deacons in thy Church: make them wee beſeech thee (O Lord) to bee modeſt, humble, and conſtant in their mini<g ref="char:EOLhyphen"/>ſtration, to haue a ready will to obſerue all ſpirituall diſcipline, that they hauing alwayes the teſtimony of a good conſcience, and continuing euer ſtable and ſtrong in thy Sonne Chriſt, may ſo well vſe themſelues in this inferiour office, that they may be found worthy to bee called vnto the higher miniſteries in thy Church, through the ſame thy Sonne our Sauiour Chriſt, to whom be glo<g ref="char:EOLhyphen"/>ry and honour world without end. Amen.</p>
+            <p>
+               <hi>And here it muſt bee ſhewed vnto the Deacon, that hee muſt continue in that office of a Deacon, the ſpace of a whole yeere at the leaſt (except for reaſonable cauſes it bee otherwiſe ſeene to his Ordinary) to the intent hee may be perfect, and well expert in the things appertaining to the Eccleſi<g ref="char:EOLhyphen"/>aſticall adminiſtration, in executing whereof, if he befound faithfull and di<g ref="char:EOLhyphen"/>ligent, he may be admitted by his Dioceſan, to the order of Prieſthood.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>¶ <hi>The forme of ordering of Prieſts.</hi>
+            </head>
+            <p>
+               <hi>When the exhortation is ended, then ſhall follow the Communion. And for the Epiſtle, ſhall bee read out of the twentieth Chapter of the Actes of the Apoſtles, as followeth.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">F</seg>Rom <hi>Mileto,</hi> Paul ſent meſſengers to Epheſus, and called the Elders of the Congregation: which when they were come to him, hee ſaid vnto them, Yee know that from the firſt day that I came into Aſia, after what manner I haue beene with you at all ſeaſons, ſeruing the Lord with all hum<g ref="char:EOLhyphen"/>bleneſſe of minde, and with many teares and temptations, which happened vnto me by the layings a wait of the Iewes, becauſe I would keepe backe nothing that was profitable vnto you, but to ſhew you, and teach you openly throughout euery houſe, witneſſing both to the Iewes, and alſo to the Greekes, the repentance that is toward GOD, and the faith which is toward our Lord Ieſus. And now behold, I goe bound in the ſpirit vnto Hieruſalem, not
+<pb facs="tcp:173787:5"/> knowing the things that ſhall come on me there, but that the holy Ghoſt witneſſeth in euery city, ſaying that bands and troubles a<g ref="char:EOLhyphen"/>bide mee. But none of theſe things mooue mee, neither is my life deare vnto my ſelfe, that I might fulfill my courſe with ioy, and the miniſtration of the word, which I haue receiued of the Lord Ieſu, to teſtifie the Goſpel of the grace of God. And now behold, I am ſure that henceforth ye all (through whom I haue gone preaching the kingdome of God) ſhall ſee my face no more. Wherefore I take you to record this day, that I am pure from the blood of all men: For I haue ſpared no labour, but haue ſhewed you all the counſell of God. Take heed therefore vnto your ſelues, and to all the flocke, among whom the holy Ghoſt hath made you ouerſeers, to rule the Congregation of God, which hee hath purchaſed with his blood. For I am ſure of this, that after my departing ſhall grieuous woolues enter in among you, not ſparing the flocke. Moreouer, of your own ſelues ſhall men ariſe, ſpeaking peruerſe things, to draw diſciples after them. Therefore awake, and remember that by the ſpace of three yeeres, I ceaſed not to warne euery one of you might and day with teares.</p>
+            <p>And now brethren, I commend you to God, and to the word of his grace, which is able to build further, and to giue you an in<g ref="char:EOLhyphen"/>heritance among all them which are ſanctified. I haue deſired no mans ſiluer, gold, or veſture: Yea, you know your ſelues, that theſe hands haue miniſtred vnto my neceſſities, and vnto them that were with me. I haue ſhewed you all things, how that ſo labou<g ref="char:EOLhyphen"/>ring, ye ought to receiue the weake, and to remember the words of our Lord Ieſus, how that hee ſaid, it is more bleſſed to giue, then to receiue.</p>
+            <p>Or elſe this third Chapter, of the firſt Epiſtle to Timothie.</p>
+            <p>
+               <seg rend="decorInit">T</seg>His is a true ſaying, If any man deſire the office of a Bi<g ref="char:EOLhyphen"/>ſhop, <note place="margin">1. <hi>Tim.</hi> 3. <hi>This when Deacons and Prieſts are made both in one day.</hi>
+               </note> he deſireth an honeſt worke. A Biſhop therefore muſt be blameleſſe, the huſband of one wife, diligent, ſober, diſ<g ref="char:EOLhyphen"/>creet, a keeper of hoſpitality, apt to teach, not giuen to o<g ref="char:EOLhyphen"/>uermuch wine, no fighter, not greedy of filthy lucre, but gentle, ab<g ref="char:EOLhyphen"/>horring fighting, abhorring couetouſneſſe, one that ruleth well his own houſe, one that hath children in ſubiection with all reuerence. For if a man cannot rule his owne houſe, how ſhall he care for the Congregation of God? He may not be a yong Scholer, leſt he ſwell and fall into the iudgement of the euill ſpeaker. He muſt alſo haue a good report of them which are without, leſt hee fall into rebuke and ſnare of the euill ſpeaker.</p>
+            <p>Likewiſe muſt the Miniſters bee honeſt, not double tongued,
+<pb facs="tcp:173787:6"/> not giuen vnto much wine, neither greedy of filthy lucre, but hol<g ref="char:EOLhyphen"/>ding the myſterie of the faith, with a pure conſcience: and let them firſt bee proued, and then let them miniſter, ſo that no man bee able to reproue them.</p>
+            <p>Euen ſo muſt their wiues be honeſt, not euill ſpeakers: but ſober, and faithfull in all things. Let the Deacons bee the huſbands of one wife, and ſuch as rule their children well, and their own houſ<g ref="char:EOLhyphen"/>holds: For they that miniſter well, get themſelues a good degree, and great liberty in the faith, which is in Chriſt Ieſus. Theſe things write I vnto thee, truſting to come ſhortly vnto thee: but if I tarry long, that then thou mayeſt haue yet knowledge, how thou oughteſt to behaue thy ſelfe in the houſe of God, which is the Con<g ref="char:EOLhyphen"/>gregation of the liuing God, the pillar and ground of truth.</p>
+            <p>And without doubt, great is that myſtery of godlineſſe: God was ſhewed in the fleſh, was iuſtified in the Spirit, was ſeene among the Angels, was preached vnto the Gentiles, was beleeued on in the world, and receiued vp in glory.</p>
+            <p>After this ſhall be read for the Goſpel, a piece of the laſt Chapter of Matthew, as followeth.</p>
+            <p>IEſus came and ſpake vnto them, ſaying, All power is giuen vnto me in heauen and in earth: Goe ye therefore, and teach all Nati<g ref="char:EOLhyphen"/>ons, baptizing them in the Name of the Father, and of the Son. and of the holy Ghoſt, teaching them to obſerue all things whatſo<g ref="char:EOLhyphen"/>euer I haue commanded you: and loe, I am with you alway, euen vntill the end of the world.</p>
+            <p>Or elſe this that followeth, out of the tenth Chapter of Iohn.</p>
+            <p>VErely, verely I ſay vnto you, Hee that entreth not in by the doore into the ſheepefold, but climbeth vp ſome other way, the ſame is a theefe and a murderer. But hee that entreth in by the doore, is the ſhepherd of the ſheepe: to him the porter openeth, and the ſheepe heare his voyce, and hee calleth his owne ſheepe by name, and leadeth them out. And when hee hath ſent foorth his owne ſheepe, hee goeth before them, and the ſheepe follow him, for they know his voyce. A ſtranger will they not follow, but will flee from him, for they know not the voyce of ſtrangers. This pro<g ref="char:EOLhyphen"/>uerbe ſpake Ieſus vnto them, but they vnderſtood not what things they were which hee ſpake vnto them. Then ſaid Ie<g ref="char:EOLhyphen"/>ſus vnto them againe, Verely, verely I ſay vnto you, I am the doore of the ſheepe: and all (euen as many as came before me) are theeues and murderers, but the ſheepe did not heare them. I
+<pb facs="tcp:173787:6"/> am the doore: by me if any man enter in, he ſhall be ſafe, and goe in and out, and finde paſture. A thiefe commeth not but for to ſteale, kill, and to deſtroy. I am come, that they might haue life, and that they might haue it more abundantly. I am the good ſhepherd. A good ſhepherd giueth his life for the ſheepe. An hired ſeruant, and he which is not the ſhepherd (neither the ſheepe are his owne) ſeeth the wolfe comming, and leaueth the ſheep, and fleeth, and the wolfe catcheth and ſcattereth the ſheepe. The hired ſeruant fleeth, be<g ref="char:EOLhyphen"/>cauſe hee is an hired ſeruant, and careth not for the ſheepe. I am the good ſhepherd, and know my ſheepe, and am knowne of mine. As my Father knoweth me, euen ſo know I alſo my Father. And I giue my life for the ſheepe. And other ſheepe I haue, which are not of this fold: them alſo muſt I bring, and they ſhall heare my voyce, and there ſhall be one fold, and one ſhepherd.</p>
+            <p>Or elſe this, of the xx. Chapter of Iohn.</p>
+            <p>THe ſame day at night, which was the firſt day of the Sab<g ref="char:EOLhyphen"/>boths, when the doores were ſhut (where the Diſciples were aſ<g ref="char:EOLhyphen"/>ſembled together, for feare of the Iewes) came Ieſus, and ſtood in the midſt, and ſaid vnto them, Peace be vnto you, and when he had ſo ſaid, hee ſhewed vnto them his hands and his ſide. Then were the Diſciples glad, when they ſaw the Lord. Then ſaid Ieſus vn<g ref="char:EOLhyphen"/>to them againe, Peace be vnto you: Is my Father ſent me, euen ſo ſend I you alſo. And when he had ſaid thoſe words, he breathed on them, and ſaid vnto them, Receiue ye the holy Ghoſt. Whoſoeuers ſinnes yee remit, they are remitted vnto them: and whoſoeuers ſinnes ye retaine, they are retained.</p>
+            <p>When the Goſpelis ended, then ſhall be ſaid or ſung.</p>
+            <p>COme holy Ghoſt eternall God, proceeding from aboue:</p>
+            <p>Both from the Father, and the Sonne, the God of peace and loue.</p>
+            <p>Viſit our mindes, and into vs, thy heauenly grace inſpire:</p>
+            <p>That in all truth and godlineſſe, we may haue true deſire.</p>
+            <p>Thou art the very Comforter, in all woe and diſtreſſe:</p>
+            <p>The heauenly gift of God moſt high, which no tongue can ex<g ref="char:EOLhyphen"/>preſſe.</p>
+            <p>The fountaine and the liuely ſpring, of ioy celeſtiall:</p>
+            <p>The fire ſo bright, the loue ſo cleare, and Vnction ſpirituall.</p>
+            <p>Thou in thy gifts art manifold, whereby Chriſts Church doth ſtand:</p>
+            <p>In faithfull hearts writing thy Law, the finger of Gods hand.</p>
+            <pb facs="tcp:173787:7"/>
+            <p> According to thy promiſe made, thou giueſt ſpeech of grace:</p>
+            <p>That through thy helpe, the praiſe of God, may ſound in euery place.</p>
+            <p>O holy Ghoſt into our wits ſend downe thy heauenly light:</p>
+            <p>Kindle our hearts with feruent loue to ſerue God day and night.</p>
+            <p>Strength and ſtabliſh all our weakneſſe, ſo feeble and ſo fraile:</p>
+            <p>That neither fleſh, the world, nor deuill, againſt vs doe preuaile.</p>
+            <p>Put backe our enemy farre from vs, and grant vs to obtaine,</p>
+            <p>Peace in our hearts, with God and man, without grudge or diſdaine.</p>
+            <p>And grant, O Lord, that thou being, our leader and our guide:</p>
+            <p>We may eſchew the ſnares of ſinne, and from thee neuer ſlide.</p>
+            <p>To vs ſuch plenty of thy grace, good Lord, grant we thee pray:</p>
+            <p>That thou mayeſt be our Comforter at the laſt dreadfull day.</p>
+            <p>Of all ſtrife and diſſenſion, O Lord, diſſolue the bands:</p>
+            <p>And make the knots of peace and loue, throughout all Chriſtian lands.</p>
+            <p>Graunt vs, O Lord, through thee to know, the Father moſt of might:</p>
+            <p>That of his deare beloued Sonne, we may attaine the ſight,</p>
+            <p>And that with perfect faith alſo we may acknowledge thee:</p>
+            <p>The Spirit of them both alway, one God in perſons three.</p>
+            <p>Laud and praiſe be to the Father, and to the Sonne equall:</p>
+            <p>And to the holy Spirit alſo, one God coeternall.</p>
+            <p>And pray wee that the onely Sonne, vouchſafe his Spirit to ſend:</p>
+            <p>To all that doe profeſſe his Name, vnto the worlds end. Amen.</p>
+            <p>And then the Archdeacon ſhall preſent vnto the Biſhop, all them that ſhall receiue the order of Prieſthood that day, the Archdeacon ſaying,</p>
+            <p>REuerend Father in God, I preſent vnto you theſe perſons, pre<g ref="char:EOLhyphen"/>ſent, to be admitted to the order of Prieſthood.</p>
+            <p>Cum interrogatione &amp; reſponſione, vt in ordine Diaconatus.</p>
+            <p>And then the Biſhop ſhall ſay to the people.</p>
+            <p>GOod people, theſe bee they whom wee purpoſe, God willing, to receiue this day vnto the holy office of Prieſthood: For af<g ref="char:EOLhyphen"/>ter due examination, we finde not to the contrary, but that they be lawfully called to their function and miniſtery, and that they bee
+<pb facs="tcp:173787:7"/> perſons meete for the ſame: but yet if there bee any of you, which knoweth any impediment, or notable crime of any of them, for the which hee ought not to be receiued into this holy miniſterie, now in the Name of God declare the ſame.</p>
+            <p>And if any great crime or impediment be obiected.</p>
+            <p>Vt ſupra in Ordine Diaconatus, vſque ad finem Letaniae, cum hac Collecta.</p>
+            <p>ALmighty God, giuer of al good things, which by thy holy Spi<g ref="char:EOLhyphen"/>rit haſt appointed diuers orders of Miniſters in thy Church, mercifully behold theſe thy ſeruants, now called to the office of Prieſthood, and repleniſh them ſo with the trueth of thy doctrine, and innocency of life, that both by word and good example, they may faithfully ſerue thee in this office, to the glory of thy Name, and profit of thy Congregation, through the merits of our Saui<g ref="char:EOLhyphen"/>our Ieſus Chriſt, who liueth and reigneth with thee, and the ho<g ref="char:EOLhyphen"/>ly Ghoſt, world without end. Amen.</p>
+            <p>Then the Biſhop ſhall miniſter vnto euery one of them the Oath concerning the Kings Supremacy, as it is ſet forth in the order of Deacons. And that done, hee ſhall ſay vnto them which are appointed to receiue the ſaid office, as hereafter followeth.</p>
+            <p>YOu haue heard brethren, aſ well in your priuate examinati<g ref="char:EOLhyphen"/>on, as in the exhortation, and in the holy Leſſons taken out of the Goſpel and of the writings of the Apoſtles, of what dignity, and of how great importance this office is (whereunto ye bee cal<g ref="char:EOLhyphen"/>led.) And now wee exhort you in the Name of our Lord Ieſus Chriſt, to haue in remembrance into how high a dignity, and to how chargeable an office ye bee called, that is to ſay, the meſſen<g ref="char:EOLhyphen"/>gers, the watchmen, the Paſtours and the Stewards of the Lord, to teach, to premoniſh, to feede, and prouide for the Lords family, to ſeeke for Chriſts ſheepe that be diſperſed abroad, and for his chil<g ref="char:EOLhyphen"/>dren which bee in the middeſt of this naughty world, to bee ſaued through Chriſt for euer. Haue alwayes therefore printed in your remembrance, how great a treaſure is committed to your charge: for they be the ſheepe of Chriſt, which hee bought with his death, and for whom he ſhed his blood. The Church and Congregation whom you muſt ſerue, is his ſpouſe and his body.</p>
+            <p>And if it ſhall chance the ſame Church, or any member therof, to
+<pb facs="tcp:173787:8"/> take any hurt or hinderance, by reaſon of your negligence, yee know the greatneſſe of the fault, and alſo of the horrible puniſh<g ref="char:EOLhyphen"/>ment which will enſue. Wherefore, conſider with your ſelues the end of your miniſtery, towards the children of God, towards the ſpouſe and body of Chriſt, and ſee that you neuer ceaſe your la<g ref="char:EOLhyphen"/>bour, your care, and diligence, vntill you haue done all that lieth in you, according to your bounden duty, to bring all ſuch as are, or ſhall be committed to your charge, vnto that agreement in faith and knowledge of God, and to that ripeneſſe and perfectnes of age in Chriſt, that there be no place left among you, either of errour in Religion, or for viciouſneſſe in life.</p>
+            <p>Then, foraſmuch as your office is both of ſo great excellencie, and of ſo great difficultie, ye ſee with how great care and ſtudie ye ought to apply your ſelues, aſ well that you may ſhew your ſelues kind to that Lord who hath placed you in ſo high a dignity, as alſo to be ware that neither you your ſelues offend, neither be occaſion that other offend. Howbeit, ye cannot haue a mind and a wil ther<g ref="char:EOLhyphen"/>to of your ſelues, for that power and abilitie is giuen of God alone. Therfore ye ſee how ye ought and haue need earneſtly to pray for his holy ſpirit. And ſeeing that you cannot by any other meanes, compaſſe the doing of ſo weighty a worke pertaining to the ſalua<g ref="char:EOLhyphen"/>tion of man, but with doctrine and exhortation, taken out of the holy Scriptures, and with a life agreeable vnto the ſame: Ye per<g ref="char:EOLhyphen"/>ceiue how ſtudious yee ought to bee in reading and in learning the Scriptures, and in framing the maners, both of your ſelues, and of them that ſpecially pertaine vnto you, according to the rule of the ſame Scriptures: And for this ſelfe ſame cauſe, ye ſee how ye ought to forſake and ſet aſide (as much as you may) all worldly cares and ſtudies.</p>
+            <p>Wee haue good hope, that you haue well weighed and ponde<g ref="char:EOLhyphen"/>red theſe things with your ſelues, long before this time, and that you haue cleerely determined, by Gods grace, to giue your ſelues wholly to this vocation, wherunto it hath pleaſed God to call you, ſo that (as much as lieth in you) you apply your ſelues wholly to this one thing, and draw all your cares and ſtudies this way, and to this end. And that you will continually pray for the heauen<g ref="char:EOLhyphen"/>ly aſſiſtance of the holy Ghoſt from God the Father, by the me<g ref="char:EOLhyphen"/>diation of our onely Mediatour and Sauiour Ieſus Chriſt, that by daily reading and weighing of the Scriptures, ye may ſo waxe riper and ſtronger in your miniſtery: And that yee may ſo endea<g ref="char:EOLhyphen"/>uour your ſelues from time to time, to ſanctifie the liues of you and yours, and to faſhion them after the rule and doctrine of Chriſt: And that ye may be wholſome and godly examples and pat<g ref="char:EOLhyphen"/>terns, for the reſt of the congregation to follow: &amp; that this preſent
+<pb facs="tcp:173787:8"/> congregation of Chriſt here aſſembled, may alſo vnderſtand your mindes and wils in theſe things: and that this your promiſe ſhall more moue you to do your duties, ye ſhall anſwere plainely to theſe things, which we in the name of the congregation ſhall demand of you touching the ſame.</p>
+            <p>Doe you thinke in your heart that you bee truely called accor<g ref="char:EOLhyphen"/>ding to the will of our Lord Ieſus Chriſt, and the order of this Church of England, to the miniſtery of Prieſthood?</p>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I thinke it.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>BEe you perſwaded that the holy ſcriptures conteine ſufficient<g ref="char:EOLhyphen"/>ly all doctrine required of neceſſitie for eternall ſaluation, tho<g ref="char:EOLhyphen"/>row faith in Ieſu Chriſt? And are you determined with the ſayd Scriptures to inſtruct the people committed to your charge, and to teach nothing (as required of neceſſitie to eternall ſaluation) but that you ſhall be perſwaded may be concluded, and prooued by the Scripture?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I am ſo perſwaded, and haue ſo determined by Gods grace.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you then giue your faithfull diligence, alwayes ſo to miniſter the doctrine and Sacraments, and the diſcipline of Chriſt, as the Lord hath commanded, and as this Realme hath receiued the ſame, according to the Commandements of God, ſo that you may teach the people committed to your cure and charge, with all diligence to keepe and obſerue the ſame?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe, by the helpe of the Lord.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you bee ready with all faithfull diligence to baniſh and driue away all erroneous and ſtrange doctrines, contrary to Gods word, and to vſe both publike and priuate monitions and exhortations, as well to the ſicke, as to the whole, within your cures, as need ſhall require, and occaſion be giuen?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will, the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you bee diligent in prayers, and in reading of the holy Scriptures, and in ſuch ſtudies as helpe to the knowledge of the ſame, laying aſide the ſtudy of the world and the fleſh?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173787:9"/>
+               <speaker>Anſwere.</speaker>
+               <p>I will endeauour my ſelfe ſo to doe, the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you bee diligent to frame and faſhion your owne ſelues, and your families, according to the doctrine of Chriſt, and to make both your ſelues and them (as much as in you lieth) whol<g ref="char:EOLhyphen"/>ſome examples and ſpectacles to the flocke of Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will apply my ſelfe, the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you maintaine and ſet forwards (as much as lyeth in you) quietnes, peace, and loue, among all Chriſtian people, and ſpecially among them that are, or ſhall bee committed to your charge?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe, the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you reuerently obey your Ordinarie, and other chiefe Miniſters, vnto whom the gouernment and charge is committed ouer you, following with a glad minde and will, their godly admonitions, and ſubmitting your ſelues to their godly iudgements?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe, the Lord being my helper.</p>
+            </sp>
+            <p>Then ſhall the Biſhop ſay.</p>
+            <sp>
+               <p>ALmighty God, who hath giuen you this will to doe all theſe things, grant alſo vnto you ſtrength and power to performe the ſame, that he may accompliſh his worke which hee hath begun in you, vntill the time hee ſhall come at the latter day, to iudge the quicke and the dead.</p>
+            </sp>
+            <p>
+               <hi>After this, the Congregation ſhall bee deſired, ſecretly in their prayers, to make humble ſupplications to God for the aforeſaid things: for the which prayers, there ſhall be a certaine ſpace kept in ſilence.</hi>
+            </p>
+            <p>
+               <hi>That done, the Biſhop ſhall pray in this wiſe.</hi>
+            </p>
+            <sp>
+               <p>¶ Let vs pray.</p>
+               <p>
+                  <seg rend="decorInit">A</seg>Lmighty God, and heauenly Father, which of thine infi<g ref="char:EOLhyphen"/>nite loue, and goodneſſe towards vs, haſt giuen to vs thy only &amp; moſt deare beloued Son Ieſus Chriſt to be our re<g ref="char:EOLhyphen"/>deemer &amp; author of euerlaſting life, who after he had made perfect our redemption by his death, &amp; was aſcended into heauen, ſent abroad into the world his Apoſtles, Prophets, Euangeliſts,
+<pb facs="tcp:173787:9"/> Doctours, and Paſtours, by whoſe labour and miniſtery, hee ga<g ref="char:EOLhyphen"/>thered together a great flocke in all the parts of the world, to ſet forth the eternall praiſe of thy holy Name. For theſe ſo great bene<g ref="char:EOLhyphen"/>fits of thy eternall goodneſſe, and for that thou haſt vouchſafed to call theſe thy ſeruants here preſent, to the ſame office and miniſte<g ref="char:EOLhyphen"/>rie of ſaluation of mankinde, wee render vnto thee moſt hearty thanks, we worſhip and praiſe thee, and wee humbly beſeech thee, by the ſame thy Sonne, to grant vnto vs all, which either here, or elſewhere call vpon thy Name, that wee may ſhew our ſelues thankfull to thee, for theſe and all other thy benefits &amp; that we may daily encreaſe and goe forwards, in the knowledge and faith of thee and thy Sonne, by the holy Spirit. So that as well by theſe thy Miniſters, as by them to whom they ſhall be appointed Mi<g ref="char:EOLhyphen"/>niſters, thy holy Name may be alwayes glorified, and thy bleſſed kingdome enlarged, through the ſame thy Sonne our Lord Ieſus Chriſt, which liueth and reigneth with thee, in the vnitie of the ſame holy Spirit, world without end. Amen.</p>
+            </sp>
+            <p>When this prayer is done, the Biſhop with the Prieſts preſent, ſhal lay their hands ſeuerally vpon the head of euery one that receiueth Orders: The Receiuers humbly kneeling vpon their knees, and the Biſhop ſaying.</p>
+            <p>REceiue the holy Ghoſt: whoſe ſinnes thou doeſt forgiue, they are forgiuen: and whoſe ſinnes thou doeſt reteine, they are re<g ref="char:EOLhyphen"/>teined: and be thou a faithfull diſpenſer of the word of God, and of his holy Sacraments. In the Name of the Father, and of the Sonne, and of the holy Ghoſt. Amen.</p>
+            <p>The Biſhop ſhall deliuer to euery one of them the Bible in his hand, ſaying.</p>
+            <p>TAke thou authority to preach the word of God, and to miniſter the holy Sacraments in this Congregation, where thou ſhalt be ſo appointed.</p>
+            <p>When this is done, the Congregation ſhall ſing the Creed, and alſo they ſhall goe to the Communion, which all they that receiue Orders ſhall take together, and remaine in the ſame place where the hands were lay<g ref="char:EOLhyphen"/>ed vpon them, vntill ſuch time as they haue receiued the Communion.</p>
+            <p>The Communion being done, after the laſt collect, and immediatly before the Benediction, ſhall be ſaid this Collect.</p>
+            <p>MOſt merciful Father, we beſeech thee, ſo to ſend vpon theſe thy ſeruants thy heauenly bleſſing, that they may bee clad about with all iuſtice, and that thy word ſpoken by their mouthes, may haue ſuch ſucceſſe, that it may neuer be ſpoken in vaine. Grant al<g ref="char:EOLhyphen"/>ſo that we may haue grace to heare, and receiue the ſame as thy
+<pb facs="tcp:173787:10"/> moſt holy word, and the meanes of our ſaluation, that in all our words and deeds, we may ſeeke thy glory, and the encreaſe of thy kingdome, through Ieſus Chriſt our Lord. Amen.</p>
+            <p>
+               <hi>And if the Order of Deacons and Prieſthood be giuen both vpon one day, then ſhall all things at the holy Communion bee vſed, as they are ap<g ref="char:EOLhyphen"/>pointed at the Ordering of Prieſts: Sauing that for the Epiſtle, the whole third Chapter of the firſt to Timothie ſhall bee read, as it is ſet out before in the order of Prieſts. And immediatly after the Epiſtle, the Dea<g ref="char:EOLhyphen"/>cons ſhall be ordered. And it ſhall ſuffice the Letany to be ſaid once.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>
+               <g ref="char:leaf">❧</g> 
+               <hi>The Forme of Conſecrating of an Archbiſhop, or Biſhop.</hi>
+            </head>
+            <head type="sub">¶ <hi>At the Communion.</hi>
+            </head>
+            <floatingText xml:lang="eng" type="Scripture">
+               <body>
+                  <head>The Epiſtle.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>His is a true ſaying, If a man deſire the office of a Bi<g ref="char:EOLhyphen"/>ſhop, he deſireth an honeſt worke. A Biſhop therefore muſt be blameleſſe, the huſband of one wife, diligent, ſober, diſcreet, a keeper of hoſpitality, apt to teach, not giuen to ouermuch wine, no fighter, not greedy of fil<g ref="char:EOLhyphen"/>thy lucre, but gentle, abhorring fighting, abhorring couetouſneſſe, one that ruleth wel his own houſe, one that hath children in ſubie<g ref="char:EOLhyphen"/>ction with all reuerence. For if a man cannot rule his owne houſe, how ſhall he care for the Congregation of God? Hee may not be a young ſcholler, leſt he ſwell: and fall into the iudgement of the euill ſpeaker. He muſt alſo haue a good report of them which are with<g ref="char:EOLhyphen"/>out, leſt he fall into rebuke, and the ſnare of the euill ſpeaker.</p>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="Scripture">
+               <body>
+                  <head>The Goſpel.</head>
+                  <p>IEſus ſaid to Simon Peter, Simon Iohanna, loueſt thou mee, more then theſe? Hee ſaid vnto him. Yea, Lord, thou knoweſt that I loue thee: hee ſayd to him, Feede my Lambes. He ſaid to him againe the ſecond time, Simon Iohanna, loueſt thou mee? Hee ſaid vnto him, Yea, Lord, thou knoweſt that I loue thee: hee ſaid
+<pb facs="tcp:173787:10"/> Chriſt haue mercy vpon vs.</p>
+                  <p>
+                     <hi>Chriſt haue mercy vpon vs.</hi>
+                  </p>
+                  <p>Lord haue mercy vpon vs.</p>
+                  <p>
+                     <hi>Lord haue mercy vpon vs.</hi>
+                  </p>
+                  <p>Our Father which art in heauen, &amp;c.</p>
+                  <p>
+                     <hi>And leade vs not into temptation.</hi>
+                  </p>
+                  <p>But deliuer vs from euill. Amen.</p>
+                  <p>
+                     <hi>The Verſicle.</hi>
+                  </p>
+                  <p>O Lord deale not with vs after our ſinnes.</p>
+                  <p>
+                     <hi>Anſwere.</hi>
+                  </p>
+                  <p>Neither reward vs after our iniquities.</p>
+               </body>
+            </floatingText>
+            <p>¶ Let vs pray.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>
+               </hi> God mercifull Father, that deſpiſeſt not the ſighing of a contrite heart, nor the deſire of ſuch as be ſorrow<g ref="char:EOLhyphen"/>full, mercifully aſſiſt our prayers that wee make be<g ref="char:EOLhyphen"/>fore thee, in all our troubles and aduerſities, whenſo<g ref="char:EOLhyphen"/>euer they oppreſſe vs: and graciouſly heare vs, that thoſe euills which the craft and ſubtilty of the deuill or man wor<g ref="char:EOLhyphen"/>keth againſt vs, be brought to nought, and by the prouidence of thy goodneſſe they may be diſperſed, that we thy ſeruants being hurt by no perſecutions, may euermore giue thanks vnto thee in thy holy Church, through Ieſus Chriſt our Lord.</p>
+            <p>
+               <hi>O Lord ariſe, helpe vs, and deliuer vs for thy Names ſake.</hi>
+            </p>
+            <p>O God, we haue heard with our eares, and our fathers haue de<g ref="char:EOLhyphen"/>clared vnto vs the noble workes that thou diddeſt in their dayes, and in the old time before them.</p>
+            <p>
+               <hi>O Lord ariſe, helpe vs and deliuer vs for thine honour.</hi>
+            </p>
+            <p>Glory be to the Father, and to the Sonne: and to the holy Ghoſt.</p>
+            <p>As it was in the beginning, is now, and euer ſhall be: world without end. Amen.</p>
+            <p>From our enemies defend vs, O Chriſt.</p>
+            <p>
+               <hi>Graciouſly looke vpon our afflictions.</hi>
+            </p>
+            <p>Pitifully behold the ſorrowes of our hearts.</p>
+            <p>
+               <hi>Mercifully forgiue the ſinnes of thy people.</hi>
+            </p>
+            <p>Fauourably with mercy heare our prayers.</p>
+            <p>
+               <hi>O Sonne of Dauid haue mercy vpon vs.</hi>
+            </p>
+            <p>Both now and euer vouchſafe to heare vs, O Chriſt.</p>
+            <p>
+               <hi>Graciouſly heare vs, O Chriſt: graciouſly heare vs, O Lord Chriſt.</hi>
+            </p>
+            <p>
+               <hi>The Verſicle.</hi>
+            </p>
+            <p>O Lord let thy mercy be ſhewed vpon vs.</p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>As we doe put our truſt in thee.</p>
+            <pb facs="tcp:173787:11"/>
+            <p> ¶ Let vs pray.</p>
+            <p>VVE humbly beſeech thee, O Father, mercifully to looke vpon our infirmities, and for the glory of thy Names ſake, turne from vs all thoſe euils that wee moſt righteouſly haue deſerued: and grant that in all our troubles we may put our whole truſt and confidence in thy mercy, and euermore ſerue thee in holineſſe and pureneſſe of liuing, to thy honour and glory, through our onely Mediatour and Aduocate Ieſus Chriſt our Lord. Amen.</p>
+            <p>ALmightie God, which haſt giuen vs grace at this time with one accord to make our common ſupplications vnto thee, and doeſt promiſe that when two or three bee gathered together in thy Name, thou wilt grant their requeſts: fulfill now, O Lord, the deſires and petitions of thy ſeruants, as may be moſt expedient for them, granting vs in this world knowledge of thy trueth, and in the world to come life euerlaſting. Amen</p>
+            <p>¶ <hi>Then ſhall bee ſaid alſo this that followeth.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty God, which by thy diuine prouidence haſt appointed diuers orders of Miniſters in the Church, and diddeſt inſpire thine holy Apoſtles, to chuſe vnto this order of Deacons, the firſt Martyr S. Stephen, with other: mercifully behold theſe thy ſeruants, now called to the like office and adminiſtration, repleniſh them ſo with the trueth of thy doctrine, and innocency of life, that both by word and good example, they may faithfully ſerue thee in this of<g ref="char:EOLhyphen"/>fice to the glory of thy Name, and profit of the Congregation, through the merits of our Sauiour Ieſu Chriſt, who liueth and reigneth with thee, and the holy Ghoſt, now and for euer. Amen.</p>
+            <p>Then ſhall be ſung or ſaid the Communion of the day, ſauing the Epi<g ref="char:EOLhyphen"/>ſtle ſhall be read out of Timothie, as followeth.</p>
+            <p>
+               <seg rend="decorInit">L</seg>Ike wiſe muſt the Miniſters be honeſt, not double tongued, nor giuen vnto much wine, neither greedy of filthy lucre, but holding the myſterie of the faith, with a pure conſci<g ref="char:EOLhyphen"/>ence: and let them firſt be prooued, and then let them miniſter, ſo that no man be able to reproue them. Euen ſo muſt their wiues be honeſt, not euill ſpeakers, but ſober, &amp; faithfull in all things. Let the Deacons be the husbands of one wife, and ſuch as rule their
+<pb facs="tcp:173787:11"/> children well, and their owne houſholds: For they that miniſter well, get themſelues a good degree, and a great liberty in the faith which is in Chriſt Ieſu.</p>
+            <p>Theſe things write I vnto thee, truſting to come ſhortly vnto thee: but and if I tary long, that then thou mayeſt yet haue know<g ref="char:EOLhyphen"/>ledge how thou oughteſt to behaue thy ſelfe in the houſe of God, which is the congregation of the liuing God, the pillar and ground of truth. And without doubt, great is that myſtery of godlineſſe. God was ſhewed in the fleſh, was iuſtified in the ſpirit, was ſeene among the Angels, was preached vnto the Gentiles, was beleeued on in the world, and receiued vp in glory.</p>
+            <p>Or elſe this out of the ſixth of the Acts.</p>
+            <p>THen the twelue called the multitude of the Diſciples together, and ſaid, It is not meet that we ſhould leaue the word of God, and ſerue tables. Wherefore brethren, looke yee out among you ſeuen men of honeſt report, and full of the holy Ghoſt and wiſdom, to whom wee may commit this buſineſſe: but wee will giue our ſelues continually to praier, and to the adminiſtration of the word. And that ſaying pleaſed the whole multitude. And they choſe Ste<g ref="char:EOLhyphen"/>phen, a man full of faith, and full of the holy Ghoſt, and Philip, and Prochorus, and Nicanor, and Timon, and Permenas, and Nicholas, a conuert of Antioch. Theſe they ſet before the Apoſtles, and when they had prayed, they laid their hands on them. And the word of God increaſed, and the number of the Diſciples mul<g ref="char:EOLhyphen"/>tiplied in Ieruſalem greatly, and a great company of the Prieſts were obedient vnto the faith.</p>
+            <p>
+               <hi>And before the Goſpel, the Biſhop ſitting in a chaire, ſhall cauſe the Oath of the Kings ſupremacie, and againſt the power and autho<g ref="char:EOLhyphen"/>rity of all forreigne Potentates, to bee miniſtred vnto euery of them that are to be ordered.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="oath">
+               <body>
+                  <head>
+                     <g ref="char:leaf">❧</g> 
+                     <hi>The Oath of the Kings Soueraignetie.</hi>
+                  </head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">I</seg>
+                     </hi> A. B. doe vtterly teſtifie and declare in my conſcience, that the Kings Highneſſe is the onely ſupreme Gouernour of this Realme, &amp; of all other his Highnes Dominions and Countries, aſ well in all ſpiritual or Eccleſiaſtical things or cauſes, as Temporall, and that no forraigne Prince, Perſon,
+<pb facs="tcp:173787:12"/> Prelate, State or Potentate, hath or ought to haue any iuriſdicti<g ref="char:EOLhyphen"/>on, power, ſuperiority, preeminence, or authority Eccleſiaſticall, or Spirituall within this Realme, and therefore I doe vtterly re<g ref="char:EOLhyphen"/>nounce and forſake all forreigne Iuriſdictions, Powers, Supe<g ref="char:EOLhyphen"/>riorities, and authorities: and doe promiſe that from henceforth, I ſhall beare faith and true Allegiance to the Kings Highneſſe, his Heires and lawfull Succeſſours, and to my power ſhall aſſiſt and defend all Iuriſdictions, Priuiledges, Preeminences and Autho<g ref="char:EOLhyphen"/>rities, granted or belonging to the Kings Highnes, his Heires and Succeſſours, or vnited and annexed to the Imperiall Crowne of this Realme, ſo helpe me God, and the Contents of this Booke.</p>
+               </body>
+            </floatingText>
+            <p>Then ſhall the Biſhop examine euery one of them that are to bee ordered, in the preſence of the people, after this manner following,</p>
+            <sp>
+               <p>DOe you truſt that you are inwardly moued by the holy Ghoſt to take vpon you this office and miniſtration, to ſerue God, for the promoting of his glory, and the edifying of his people?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I truſt ſo.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>Doe you thinke that yee truly bee called according to the will of our Lord Ieſus Chriſt, and the due order of this Realme, to the Miniſtery of the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I thinke ſo.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>Doe you vnfainedly beleeue all the Canonicall Scriptures of the old and new Teſtament?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I doe beleeue.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>VVIll you diligently reade the ſame vnto the people aſſembled in the Church, where you ſhall be appointed to ſerue?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will.</p>
+            </sp>
+            <sp>
+               <speaker>The Biſhop.</speaker>
+               <p>IT appertaineth to the office of a Deacon in the Church, where he ſhall be appointed, to aſſiſt the Prieſt in diuine Seruice, and ſpe<g ref="char:EOLhyphen"/>cially when he miniſtreth the holy Communion, and to helpe him in diſtribution therof, and to reade holy Scriptures and Homilies in the Congregation, and to inſtruct the youth in the Catechiſme, to Baptize and to Preach, if he be admitted thereto by the Biſhop. And furthermore, it is his office, where prouiſion is ſo made, to ſearch
+<pb facs="tcp:173787:12"/> ſaid vnto him, Feed my ſheepe. Hee ſaid vnto him the third time, Simon Iohanna, loueſt thou me? Peter was ſorry, becauſe he ſaid vnto him the third time, Loueſt thou me. And hee ſaid vnto him, Lord thou knoweſt all things, thou knoweſt that I loue thee. Ie<g ref="char:EOLhyphen"/>ſus ſaid vnto him, Feed my ſheepe.</p>
+            </sp>
+            <p>
+               <hi>Or elſe out of the tenth Chapter of Iohn: as before in the order of Prieſts.</hi>
+            </p>
+            <p>
+               <hi>After the Goſpel and Creed ended: firſt the elected Biſhop ſhall be preſented by two Biſhops, vnto the Archbiſhop of that Prouince, or to ſome other Biſhop appointed by his commiſſion: the Biſhops that preſent him, ſaying,</hi>
+            </p>
+            <p>MOſt reuerend Father in God, we preſent vnto you this godly and well learned man to be conſecrated Biſhop.</p>
+            <p>
+               <hi>Then ſhall the Archbiſhop demand the Kings mandate, for the conſecra<g ref="char:EOLhyphen"/>tion, and cauſe it to be read, and the Oath touching the knowledge of the Kings Supremacie, ſhall be miniſtred to the perſons elected, as it is ſet out in the order of Deacons. And then ſhall be miniſtred the Oath of due obedience vnto the Archbiſhop, as followeth.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="oath">
+               <body>
+                  <head>The Oath of due obedience to the Archbiſhop.</head>
+                  <p>IN the Name of God, Amen. I. N. choſen Biſhop of the Church and See of N. doe profeſſe and promiſe all due reuerence and o<g ref="char:EOLhyphen"/>bedience to the Archbiſhop, and to the Metropoliticall Church of N. and to their ſucceſſors: ſo helpe me God, through Ieſus Chriſt.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>This Oath ſhall not be made at the Conſecration of an Archbiſhop.</hi>
+            </p>
+            <p>Then the Archbiſhop ſhall mooue the Congregation preſent, to pray, ſaying thus to them,</p>
+            <p>BRethren, it is written in the Goſpel of S. Luke, that our Sa<g ref="char:EOLhyphen"/>uiour Chriſt continued the whole night in prayer, or euer that he did chuſe and ſend forth his twelue Apoſtles. It is written alſo in the Acts of the Apoſtles, that the Diſciples which were at Anti<g ref="char:EOLhyphen"/>och did faſt and pray, or euer they laid hands vpon, or ſent forth Paul and Barnabas. Let vs therefore, following the example of our Sauiour Chriſt and his Apoſtles, firſt fall to prayer, or that we admit and ſend forth this perſon preſented vnto vs, to the worke whereunto we truſt the holy Ghoſt hath called him.</p>
+            <pb facs="tcp:173787:13"/>
+            <p> 
+               <hi>And then ſhall be ſaid the Letanie, as afore in the order of Deacons.</hi>
+            </p>
+            <p>
+               <hi>And after this place,</hi> That it may pleaſe thee to illuminate all Bi<g ref="char:EOLhyphen"/>ſhops, &amp;c. <hi>he ſhall ſay.</hi>
+            </p>
+            <p>That it may pleaſe thee to bleſſe this our brother elected, and to ſend thy grace vpon him, that hee may duely execute the office whereunto hee is called, to the edifying of thy Church, and to the honour, praiſe, and glory of thy Name.</p>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>We beſeech thee to heare vs good Lord.</p>
+            </sp>
+            <p>Concluding the Letanie in the end, with this prayer.</p>
+            <p>ALmighty God, giuer of all good things, which by thy holy ſpi<g ref="char:EOLhyphen"/>rit haſt appointed diuers orders of Miniſters in thy Church, mercifully behold this thy ſeruant, now called to the worke and miniſtery of a Biſhop, and repleniſh him ſo with the truth of thy doctrine, and innocencie of life, that both by word and deed he may faithfully ſerue thee in this office, to the glory of thy Name, and profit of thy congregation, through the merits of our Sauiour Ieſus Chriſt, who liueth and reigneth with thee and the holy Ghoſt, world without end. Amen.</p>
+            <p>Then the Archbiſhop ſitting in a chaire, ſhall ſay to him that is to bee conſecrated,</p>
+            <p>BRother, for as much as holy Scripture, and the old Canons commandeth, that we ſhould not be haſty in laying on hands, and admitting of any perſon to the gouernement of the Congrega<g ref="char:EOLhyphen"/>tion of Chriſt, which he hath purchaſed with no leſſe price then the effuſion of his owne blood: afore I admit you to this adminiſtra<g ref="char:EOLhyphen"/>tion, whereunto you are called, I will examine you in certaine ar<g ref="char:EOLhyphen"/>ticles, to the end the Congregation preſent, may haue a tryall and beare witnes how ye be minded to behaue your ſelfe in the Church of God.</p>
+            <p>Are you perſwaded that you bee truly called to this miniſtrati<g ref="char:EOLhyphen"/>on, according to the will of our Lord Ieſus Chriſt, and the order of this Realme?</p>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I am ſo perſwaded.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>ARe you perſwaded that the holy Scriptures containe ſuffici<g ref="char:EOLhyphen"/>ently all doctrine, required of neceſſitie for eternall ſaluati<g ref="char:EOLhyphen"/>on, through the faith in Ieſus Chriſt? And are you determined
+<pb facs="tcp:173787:13"/> with the ſame holy Scriptures, to inſtruct the people committed to your charge, and to teach or maintaine nothing as required of neceſſity to eternall ſaluation, but that you ſhall be perſwaded may be concluded and proued by the ſame?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I am ſo perſwaded and determined by Gods grace.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>VVIll you then faithfully exerciſe your ſelfe in the ſaid holy Scriptures, and call vpon God by prayer, for the true vn<g ref="char:EOLhyphen"/>derſtanding of the ſame, ſo as ye may be able by them to teach and exhort with wholeſome doctrine, and to withſtand and conuince the gaineſayers?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe by the helpe of God.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>BE you ready with all faithfull diligence to baniſh and driue a<g ref="char:EOLhyphen"/>way all erroneous and ſtrange doctrine contrary to Gods word, and both priuately and openly to call vpon and encourage others to the ſame?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I am ready the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>VVIll you deny all vngodlineſſe and worldly luſts, and liue ſoberly, righteouſly, and godly in this world, that you may ſhew your ſelfe in all things an example of good workes vnto o<g ref="char:EOLhyphen"/>thers, that the aduerſary may be aſhamed, hauing nothing to lay againſt you?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo doe, the Lord being my helper.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>VVIll you maintaine and ſet forward (as much as ſhall lie in you) quietneſſe, peace, and loue among all men: and ſuch as be vnquiet, diſobedient, and criminous within your Dioceſſe, cor<g ref="char:EOLhyphen"/>rect and puniſh according to ſuch authority as yee haue by Gods word, and as to you ſhall bee committed by the ordinance of this Realme?</p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>I will doe ſo by the helpe of God.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>VVIll you ſhew your ſelfe gentle, and be mercifull for Chriſts ſake to poore and needy people, and to all ſtrangers deſti<g ref="char:EOLhyphen"/>tute of helpe?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:173787:14"/>
+               <speaker>Anſwere.</speaker>
+               <p>I will ſo ſhew my ſelfe by Gods helpe.</p>
+            </sp>
+            <sp>
+               <speaker>The Archbiſhop.</speaker>
+               <p>ALmighty God our heauenly Father, who hath giuen you a good will to doe all theſe things: grant alſo vnto you ſtrength and power to performe the ſame, that hee accompliſhing in you the good worke which hee hath begun, yee may bee found perfect, and irreprehenſible at the latter day, through Ieſus Chriſt our Lord. Amen.</p>
+            </sp>
+            <p>
+               <hi>Then ſhall be ſung or ſaid, Come holy Ghoſt, &amp;c.</hi>
+            </p>
+            <p>As it is ſet out in the order of Prieſts.</p>
+            <p>
+               <hi>That ended, the Archbiſhop ſhall ſay.</hi>
+            </p>
+            <p>Lord heare our prayer.</p>
+            <p>
+               <hi>Anſwere.</hi>
+            </p>
+            <p>And let our cry come vnto thee.</p>
+            <p>¶ Let vs pray.</p>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty God, and moſt mercifull Father, which of thine infinite goodneſſe haſt giuen thy onely and moſt deare beloued Son Ieſus Chriſt to be our Redeemer and Author of euer<g ref="char:EOLhyphen"/>laſting life, who after that hee had made per<g ref="char:EOLhyphen"/>fect our Redemption by his death, and was aſ<g ref="char:EOLhyphen"/>cended into heauen, powred downe his gifts abundantly vpon men, making ſome Apo<g ref="char:EOLhyphen"/>ſtles, ſome Prophets, ſome Euangeliſts, ſome Paſtours and Do<g ref="char:EOLhyphen"/>ctours, to the edifying and making perfect his Congregation: grant wee beſeech thee, to this thy ſeruant ſuch grace, that hee may euermore bee ready to ſpread abroad thy Goſpel, and glad ti<g ref="char:EOLhyphen"/>dings of reconcilement to God, and to vſe the authority giuen vn<g ref="char:EOLhyphen"/>to him, not to deſtroy, but to ſaue, not to hurt, but to helpe: ſo that hee, as a wiſe and faithfull ſeruant, giuing to thy family meat in due ſeaſon, may at the laſt be receiued intoioy, through Ieſu Chriſt our Lord, who with thee, and the holy Ghoſt, liueth and reigneth one God world without end. Amen.</p>
+            <p>Then the Archbiſhop and Biſhops preſent, ſhall lay their hands vpon the head of the elected Biſhop, the Archbiſhop, ſaying,</p>
+            <p>TAke the holy Ghoſt, and remember that thou ſtirre vp the grace of God, which is in thee, by impoſition of hands: for God hath not giuen vs the ſpirit of feare, but of power, and loue, and ſoberneſſe.</p>
+            <pb facs="tcp:173787:14"/>
+            <p> Then the Archbiſhop ſhall deliuer him the Bible, ſaying,</p>
+            <p>GIue heed vnto reading, exhortation, and doctrine. Thinke vp<g ref="char:EOLhyphen"/>on theſe things contained in this booke. Be diligent in them, that the increaſe comming thereby, may be manifeſt vnto all men. Take heed vnto thy ſelfe, and vnto teaching, and be diligent in do<g ref="char:EOLhyphen"/>ing them: for by doing this, thou ſhalt ſaue thy ſelfe, and them that heare thee. Bee to the flocke of Chriſt a ſhepherd, not a wolfe: feed them, deuoure them not: hold vp the weak, heale the ſicke, bind to<g ref="char:EOLhyphen"/>gether the broken, bring againe the outcaſts, ſeeke the loſt, bee ſo mercifull, that yee be not too remiſſe: ſo miniſter diſcipline, that you forget not mercy, that when the chiefe ſhepherd ſhall come, yee may receiue the immarceſſible crowne of glory, through Ieſus Chriſt our Lord Amen.</p>
+            <p>Then the Archbiſhop ſhall proceed to the Communion, with whom the new conſecrated Biſhop, with other ſhall alſo communicate. And for the laſt Collect immediately before the Benediction, ſhall bee ſaid this Prayer.</p>
+            <p>MOſt mercifull Father, we beſeech thee, to ſend down vpon this thy ſeruant thy heauenly bleſſing, and ſo endue him with thy holy Spirit, that he preaching thy word, may not onely be earneſt to reprooue, beſeech, and rebuke, with all patience and doctrine, but alſo may bee, to ſuch as beleeue, an wholſome example, in word, in conuerſation, in loue, in faith, in chaſtity, and purity: that faithfully fulfilling his courſe, at the latter day hee may receiue the Crowne of righteouſneſſe, laid vp by the Lord the righteous Iudge, who liueth and reigneth, one God with the Father and the holy Ghoſt, world without end. Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent Maieſtie: And by the Aſſignes of IOHN BILL. Anno,</hi> 1633.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
